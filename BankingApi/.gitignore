@@ -1,0 +1,19 @@
+# Compiled binary files
+bin/
+obj/
+*.dll
+*.exe
+
+# User settings and logs
+appsettings.Development.json
+appsettings.Local.json
+*.log
+logs/
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+# Build output
+publish/
