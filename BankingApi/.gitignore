@@ -17,3 +17,7 @@ logs/
 
 # Build output
 publish/
+
+
+# Visual Studio files
+.vs/
